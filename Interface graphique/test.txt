@@ -1,0 +1,11 @@
+openapi-core
+sqlalchemy
+pyodbc
+fastapi
+uvicorn
+pydantic
+sqlacodegen
+bcrypt
+python-jose[cryptography]
+python-dotenv
+azure-storage-blob
